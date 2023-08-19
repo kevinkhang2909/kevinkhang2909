@@ -4,3 +4,7 @@ Hi, I'm Kevin
 - 🌱 I’m currently learning Data Science
 - 💡 I love innovation and new technologies
 - ⚡ Fun fact: I love running and gym
+
+Contact:
+- Email: kevinkhang2909@gmail.com
+
